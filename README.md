@@ -43,11 +43,11 @@ It features a smooth UI, responsive layout, and supports all basic arithmetic op
 
 ## ⚙️ How It Works
 
-1. Users input numbers using the calculator buttons  
-2. JavaScript captures inputs and stores operands  
-3. Selected operations are processed dynamically  
-4. Results are displayed instantly with formatted output  
-5. Errors like division by zero are safely handled  
+1. Users input numbers using the calculator buttons.  
+2. JavaScript captures inputs and stores operands.  
+3. Selected operations are processed dynamically.  
+4. Results are displayed instantly with formatted output.  
+5. Errors like division by zero are safely handled.
 
 ---
 
