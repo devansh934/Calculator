@@ -53,6 +53,7 @@ It features a smooth UI, responsive layout, and supports all basic arithmetic op
 
 ## 📸 Preview
 
+<img width="1899" height="848" alt="Screenshot 2025-12-30 225705" src="https://github.com/user-attachments/assets/2c22eb7c-beb4-4a91-8347-8450e38d85fa" />
 
 
 ---
