@@ -19,7 +19,7 @@ It features a smooth UI, responsive layout, and supports all basic arithmetic op
 
 ## 🚀 Live Demo
 
-👉 **Try it here:**  
+ 
 [Live demo Preview](https://devansh934.github.io/Calculator/)
 
 
